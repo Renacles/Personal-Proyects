@@ -1,3 +1,5 @@
+# This is a simple program that decrypts the Cesar encription algorithm through brute force.
+
 from random import *
 
 def Cesar(texto, llave):
